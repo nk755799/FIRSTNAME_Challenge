@@ -1,2 +1,2 @@
-# Hello, World! Application Deployed with Terraform
+Hello, World! Application Deployed with Terraform
 This project demonstrates how to deploy a simple "Hello, World!" application on a cloud provider using Terraform. The application is a basic web server that listens on port 80 and responds to all requests with the text "Hello, World!".
